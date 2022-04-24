@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Why Are You Here?</title>
+	</head>
+	<body>
+		<a href="newpage.html">New Page</a>
+		<h1>Why are you here?</h1>
+
+		<p>Is it for <strong>peepee?</strong></p>
+		<p>Or for <em>poopoo?</em></p>
+		<p>Chose one:</p>
+		<ol>
+			<li><strong><em>peepee</strong></em></li>
+			<li><strong><em>poopoo</strong></em></li>
+			<br>
+				<img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F47%2F2021%2F12%2F16%2Fgreyhound-running-airborne-191190255-2000.jpg" width="800" height="600">
+		</ol>
+
+	</body>
+
+</html>
